@@ -151,3 +151,31 @@ button:active{
     font-family: serif;
     background-color: gray;
 }
+.services{
+    height: 600px;
+    background-color: gray;
+    padding: 2% 10% 0px;
+
+}
+.services-text p:nth-child(1){
+    font-family: serif;
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+    line-height: 0px;
+}
+.services-text p:nth-child(2){
+    font-family: serif;
+    font-weight: bold;
+    color: white;
+    font-size: 15px;
+    line-height: 5px;
+}
+.services-text p:nth-child(3){
+    font-family: serif;
+    color: white;
+}
+.services-text{
+    width: 500px;
+    maargin: 50px 0px;
+}
