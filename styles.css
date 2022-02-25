@@ -36,7 +36,7 @@ nav ul{
 }
 nav ul li a{
     margin: 30px;
-    font-family: myriad pro regular;
+    font-family: serif;
     color: black;
     font-size: 15px;
     font-weight: 700;
@@ -62,4 +62,10 @@ nav ul li a{
     letter-spacing: 1px;
     color: black;
     font-size: 60px;
+}
+.text-container p:nth-child(3){
+    font-family: serif;
+    color: black;
+    font-size: 30px;
+    
 }
