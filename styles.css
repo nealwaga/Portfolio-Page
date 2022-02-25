@@ -99,3 +99,10 @@ nav ul li a{
 button:active{
     transform: scale(1.1);
 }
+.model{
+    height: 560px;
+    position: inherit;
+    bottom: 0px;
+    left: 70%;
+    transform: translateX(-70%);
+}
