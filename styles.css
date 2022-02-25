@@ -41,3 +41,8 @@ nav ul li a{
     font-size: 15px;
     font-weight: 700;
 }
+.logo{
+    font-family: RoadTest;
+    color: black;
+    font-size: 22px;
+}
