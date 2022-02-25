@@ -94,6 +94,11 @@ nav ul li a{
     background-color: crimson;
     color: black;
 }
+.down-cv{
+    background-color: crimson;
+    color: black;
+    border: none;
+}
 button:active{
     transform: scale(1.1);
 }
