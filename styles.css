@@ -113,7 +113,7 @@ button:active{
     border-radius: 20px;
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2)
     display: flex;
-    margin: -3% auto 20px auto;
+    margin: -7% auto 20px auto;
     position: relative;
     justify-content: space-evenly;
     align-items: center; 
@@ -134,4 +134,11 @@ button:active{
     font-family: serif;
     font-weight: bold;
     line-height: 5px;
+}
+.about-text p:nth-child(3),
+.about-text p:nth-child(4){
+    color: black;
+    font-family: serif;
+    font-size: 16px;
+    
 }
