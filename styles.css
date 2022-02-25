@@ -42,7 +42,11 @@ nav ul li a{
     font-weight: 700;
 }
 .logo{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: serif;
     color: black;
     font-size: 22px;
+}
+.active{
+    font-weight: bold;
+    color: cornsilk;
 }
