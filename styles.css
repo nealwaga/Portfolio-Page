@@ -27,7 +27,7 @@ nav{
     justify-content: space-between;
     align-items: center;
     height: 60px;
-    background-color: turquoise;
+    background-color: crimson;
     box-shadow: 2px 2px 12px rgba(red, green, blue, alpha);
     padding: 0px 5%;
 }
@@ -37,7 +37,7 @@ nav ul{
 nav ul li a{
     margin: 30px;
     font-family: myriad pro regular;
-    color: brown;
+    color: black;
     font-size: 15px;
     font-weight: 700;
 }
