@@ -94,3 +94,6 @@ nav ul li a{
     background-color: crimson;
     color: black;
 }
+button:active{
+    transform: scale(1.1);
+}
