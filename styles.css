@@ -67,5 +67,8 @@ nav ul li a{
     font-family: serif;
     color: black;
     font-size: 30px;
-    
+}
+.text-container p{
+    line-height: 0px;
+    margin: 45px 0px 25px;
 }
