@@ -34,3 +34,10 @@ nav{
 nav ul{
     display: flex;
 }
+nav ul li a{
+    margin: 30px;
+    font-family: myriad pro regular;
+    color: brown;
+    font-size: 15px;
+    font-weight: 700;
+}
