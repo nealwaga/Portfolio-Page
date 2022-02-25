@@ -89,3 +89,8 @@ nav ul li a{
     outline: none;
     margin: 0px 10px;
 }
+.hire-btn{
+    border: 2px;
+    background-color: crimson;
+    color: black;
+}
