@@ -18,3 +18,8 @@ section{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
