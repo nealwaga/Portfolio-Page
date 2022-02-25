@@ -116,3 +116,6 @@ button:active{
     margin: -7% auto 20px auto;
     position: relative;
 }
+.about.text{
+    width: 550px;
+}
