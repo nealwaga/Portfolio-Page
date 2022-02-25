@@ -79,3 +79,13 @@ nav ul li a{
     top: 42%
     transform:translate(-13%,-42%);
 }
+.text-container button{
+    width: 130px;
+    height: 42px;
+    border-radius: 10px;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 14px;
+    outline: none;
+    margin: 0px 10px;
+}
