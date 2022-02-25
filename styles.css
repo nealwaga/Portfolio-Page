@@ -113,11 +113,25 @@ button:active{
     border-radius: 20px;
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2)
     display: flex;
-    margin: -7% auto 20px auto;
+    margin: -3% auto 20px auto;
     position: relative;
     justify-content: space-evenly;
     align-items: center; 
 }
-.about.text{
-    width: 550px;
+.about-text{
+    width: 
+}
+.about-text p:nth-child(1){
+    color: black;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 0px;
+}
+.about-text p:nth-child(2){
+    color: black;
+    font-size: 13px;
+    font-family: serif;
+    font-weight: bold;
+    line-height: 5px;
 }
