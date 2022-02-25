@@ -102,7 +102,17 @@ button:active{
 .model{
     height: 560px;
     position: inherit;
-    bottom: 0px;
+    bottom: 40px;
     left: 70%;
     transform: translateX(-70%);
+}
+.about-container{
+    width: 80%;
+    height: 330px;
+    background-color: crimson;
+    border-radius: 20px;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2)
+    display: flex;
+    margin: -7% auto 20px auto;
+    position: relative;
 }
