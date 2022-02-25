@@ -115,6 +115,8 @@ button:active{
     display: flex;
     margin: -7% auto 20px auto;
     position: relative;
+    justify-content: space-evenly;
+    align-items: center; 
 }
 .about.text{
     width: 550px;
