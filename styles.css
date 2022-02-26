@@ -255,3 +255,10 @@ button:active{
     justify-content: center;
     align-items: center;
 }
+.contact-me p{
+    color: white;
+    font-size: 30px;
+    font-family: serif;
+    font-weight: bold;
+    border-bottom: 2px solid;
+}
