@@ -199,3 +199,24 @@ button:active{
 .box-3{
     background-image: url(lightgrey-2.jpg);
 }
+.box-1 span,
+.box-2 span,
+.box-3 span{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: serif;
+    font-weight: bold;
+}
+.box-1 p:nth-child(2),
+.box-2 p:nth-child(2),
+.box-3 p:nth-child(2){
+    color: white;
+    font-family: serif;
+    font-size: 23px;
+    line-height: 0px;
+}
