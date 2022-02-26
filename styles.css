@@ -185,6 +185,10 @@ button:active{
     background-repeat: no-repeat;
     background-size: cover;
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 .box-container{
     display: flex;
@@ -215,7 +219,7 @@ button:active{
 .box-1 p:nth-child(2),
 .box-2 p:nth-child(2),
 .box-3 p:nth-child(2){
-    color: white;
+    color: black;
     font-family: serif;
     font-size: 23px;
     line-height: 0px;
