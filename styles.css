@@ -260,7 +260,7 @@ button:active{
     font-size: 30px;
     font-family: serif;
     font-weight: bold;
-    border-bottom: 2px solid;
+    border-bottom: 2px solid #cbcbcb;
 }
 .contact-me button{
     width: 200px;
@@ -318,8 +318,38 @@ footer p:nth-child(2){
 .social-icons i{
     color: crimson;
 }
-.social-icons a:hover{
+.social-icons a:hover,
+.a-social-b a:hover{
     background-color: white;
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
     transition: all ease 0.5s;
+}
+.social-icons a:hover i,
+.a-social-b a:hover i{
+    color: crimson;
+    transition: all ease 0.5s;
+
+}
+.a-social-b{
+    position: fixed;
+    top: 50%;
+    right: 0px;
+    transform: translateY(-50%);
+}
+.a-social-b a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    padding: 0px;
+    margin: 0px;
+    line-height: 0px;
+    background-color: black;
+    border: 1px solid #cbcbcb;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+}
+.a-social-b i{
+    color: black;
+    font-size: 20px;
 }
