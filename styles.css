@@ -231,4 +231,15 @@ button:active{
     text-align: center;
     width: 230px;
     margin: 0px 0px 20px 0px;
+    color: black
+}
+.box-1 button,
+.box-2 button,
+.box-3 button{
+    width: 100px;
+    height: 30px;
+    background-color: crimson;
+    border: none;
+    outline: none;
+    border-radius: 5px;
 }
