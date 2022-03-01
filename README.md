@@ -1,3 +1,5 @@
+Hello,
+
 My first ever portfolio page.
 
 I am new to coding and this is basically my first ever personal portfolio, that briefly describes me and showcases my resume so employers would be able to call me up for an interview and hopefully, hire me.
